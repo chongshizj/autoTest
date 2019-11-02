@@ -2,85 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a7553ca2-4e70-4158-8397-e662ef776254" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/autoTest.iml" afterPath="$PROJECT_DIR$/.idea/autoTest.iml" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Chapter10/Chapter10.iml" afterPath="$PROJECT_DIR$/Chapter10/Chapter10.iml" />
-      <change beforePath="$PROJECT_DIR$/Chapter10/pom.xml" afterPath="$PROJECT_DIR$/Chapter10/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/Chapter10/src/main/java/com/course/bean/User.java" afterPath="$PROJECT_DIR$/Chapter10/src/main/java/com/course/bean/User.java" />
-      <change beforePath="$PROJECT_DIR$/Chapter10/src/main/java/com/course/config/SwaggerConfig.java" afterPath="$PROJECT_DIR$/Chapter10/src/main/java/com/course/config/SwaggerConfig.java" />
-      <change beforePath="$PROJECT_DIR$/Chapter10/src/main/java/com/course/server/MyGetMethod.java" afterPath="$PROJECT_DIR$/Chapter10/src/main/java/com/course/server/MyGetMethod.java" />
-      <change beforePath="$PROJECT_DIR$/Chapter10/src/main/java/com/course/server/MyPostMethod.java" afterPath="$PROJECT_DIR$/Chapter10/src/main/java/com/course/server/MyPostMethod.java" />
-      <change beforePath="$PROJECT_DIR$/Chapter10/src/main/java/hello/Application.java" afterPath="$PROJECT_DIR$/Chapter10/src/main/java/hello/Application.java" />
-      <change beforePath="$PROJECT_DIR$/Chapter10/src/main/resources/application.properties" afterPath="$PROJECT_DIR$/Chapter10/src/main/resources/application.properties" />
-      <change beforePath="$PROJECT_DIR$/Chapter11/Chapter11.iml" afterPath="$PROJECT_DIR$/Chapter11/Chapter11.iml" />
-      <change beforePath="$PROJECT_DIR$/Chapter11/pom.xml" afterPath="$PROJECT_DIR$/Chapter11/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/Chapter11/src/main/java/com/course/Application.java" afterPath="$PROJECT_DIR$/Chapter11/src/main/java/com/course/Application.java" />
-      <change beforePath="$PROJECT_DIR$/Chapter11/src/main/java/com/course/controller/Demo.java" afterPath="$PROJECT_DIR$/Chapter11/src/main/java/com/course/controller/Demo.java" />
-      <change beforePath="$PROJECT_DIR$/Chapter11/src/main/java/com/course/model/User.java" afterPath="$PROJECT_DIR$/Chapter11/src/main/java/com/course/model/User.java" />
-      <change beforePath="$PROJECT_DIR$/Chapter11/src/main/resources/application.yml" afterPath="$PROJECT_DIR$/Chapter11/src/main/resources/application.yml" />
-      <change beforePath="$PROJECT_DIR$/Chapter11/src/main/resources/logback.xml" afterPath="$PROJECT_DIR$/Chapter11/src/main/resources/logback.xml" />
-      <change beforePath="$PROJECT_DIR$/Chapter11/src/main/resources/mapper/mysql.xml" afterPath="$PROJECT_DIR$/Chapter11/src/main/resources/mapper/mysql.xml" />
-      <change beforePath="$PROJECT_DIR$/Chapter11/src/main/resources/mybatis-config.xml" afterPath="$PROJECT_DIR$/Chapter11/src/main/resources/mybatis-config.xml" />
-      <change beforePath="$PROJECT_DIR$/Chapter12/Chapter12.iml" afterPath="$PROJECT_DIR$/Chapter12/Chapter12.iml" />
-      <change beforePath="$PROJECT_DIR$/Chapter12/pom.xml" afterPath="$PROJECT_DIR$/Chapter12/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/Chapter12/src/main/java/com/course/Application.java" afterPath="$PROJECT_DIR$/Chapter12/src/main/java/com/course/Application.java" />
-      <change beforePath="$PROJECT_DIR$/Chapter12/src/main/java/com/course/cases/AddUserTest.java" afterPath="$PROJECT_DIR$/Chapter12/src/main/java/com/course/cases/AddUserTest.java" />
-      <change beforePath="$PROJECT_DIR$/Chapter12/src/main/java/com/course/cases/GetUserInfoListTest.java" afterPath="$PROJECT_DIR$/Chapter12/src/main/java/com/course/cases/GetUserInfoListTest.java" />
-      <change beforePath="$PROJECT_DIR$/Chapter12/src/main/java/com/course/cases/GetUserInfoTest.java" afterPath="$PROJECT_DIR$/Chapter12/src/main/java/com/course/cases/GetUserInfoTest.java" />
-      <change beforePath="$PROJECT_DIR$/Chapter12/src/main/java/com/course/cases/LoginTest.java" afterPath="$PROJECT_DIR$/Chapter12/src/main/java/com/course/cases/LoginTest.java" />
-      <change beforePath="$PROJECT_DIR$/Chapter12/src/main/java/com/course/cases/UpdateUserInfoTest.java" afterPath="$PROJECT_DIR$/Chapter12/src/main/java/com/course/cases/UpdateUserInfoTest.java" />
-      <change beforePath="$PROJECT_DIR$/Chapter12/src/main/java/com/course/config/ExtentTestNGIReporterListener.java" afterPath="$PROJECT_DIR$/Chapter12/src/main/java/com/course/config/ExtentTestNGIReporterListener.java" />
-      <change beforePath="$PROJECT_DIR$/Chapter12/src/main/java/com/course/config/TestConfig.java" afterPath="$PROJECT_DIR$/Chapter12/src/main/java/com/course/config/TestConfig.java" />
-      <change beforePath="$PROJECT_DIR$/Chapter12/src/main/java/com/course/model/AddUserCase.java" afterPath="$PROJECT_DIR$/Chapter12/src/main/java/com/course/model/AddUserCase.java" />
-      <change beforePath="$PROJECT_DIR$/Chapter12/src/main/java/com/course/model/GetUserInfoCase.java" afterPath="$PROJECT_DIR$/Chapter12/src/main/java/com/course/model/GetUserInfoCase.java" />
-      <change beforePath="$PROJECT_DIR$/Chapter12/src/main/java/com/course/model/GetUserListCase.java" afterPath="$PROJECT_DIR$/Chapter12/src/main/java/com/course/model/GetUserListCase.java" />
-      <change beforePath="$PROJECT_DIR$/Chapter12/src/main/java/com/course/model/InterfaceName.java" afterPath="$PROJECT_DIR$/Chapter12/src/main/java/com/course/model/InterfaceName.java" />
-      <change beforePath="$PROJECT_DIR$/Chapter12/src/main/java/com/course/model/LoginCase.java" afterPath="$PROJECT_DIR$/Chapter12/src/main/java/com/course/model/LoginCase.java" />
-      <change beforePath="$PROJECT_DIR$/Chapter12/src/main/java/com/course/model/UpdateUserInfoCase.java" afterPath="$PROJECT_DIR$/Chapter12/src/main/java/com/course/model/UpdateUserInfoCase.java" />
-      <change beforePath="$PROJECT_DIR$/Chapter12/src/main/java/com/course/model/User.java" afterPath="$PROJECT_DIR$/Chapter12/src/main/java/com/course/model/User.java" />
-      <change beforePath="$PROJECT_DIR$/Chapter12/src/main/java/com/course/utils/ConfigFile.java" afterPath="$PROJECT_DIR$/Chapter12/src/main/java/com/course/utils/ConfigFile.java" />
-      <change beforePath="$PROJECT_DIR$/Chapter12/src/main/java/com/course/utils/DatabaseUtil.java" afterPath="$PROJECT_DIR$/Chapter12/src/main/java/com/course/utils/DatabaseUtil.java" />
-      <change beforePath="$PROJECT_DIR$/Chapter12/src/main/resources/application.properties" afterPath="$PROJECT_DIR$/Chapter12/src/main/resources/application.properties" />
-      <change beforePath="$PROJECT_DIR$/Chapter12/src/main/resources/databaseConfig.xml" afterPath="$PROJECT_DIR$/Chapter12/src/main/resources/databaseConfig.xml" />
-      <change beforePath="$PROJECT_DIR$/Chapter12/src/main/resources/mapper/SQLMapper.xml" afterPath="$PROJECT_DIR$/Chapter12/src/main/resources/mapper/SQLMapper.xml" />
-      <change beforePath="$PROJECT_DIR$/Chapter12/src/main/resources/testng.xml" afterPath="$PROJECT_DIR$/Chapter12/src/main/resources/testng.xml" />
-      <change beforePath="$PROJECT_DIR$/Chapter13/Chapter13.iml" afterPath="$PROJECT_DIR$/Chapter13/Chapter13.iml" />
-      <change beforePath="$PROJECT_DIR$/Chapter13/pom.xml" afterPath="$PROJECT_DIR$/Chapter13/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/Chapter13/src/main/java/com/course/Application.java" afterPath="$PROJECT_DIR$/Chapter13/src/main/java/com/course/Application.java" />
-      <change beforePath="$PROJECT_DIR$/Chapter13/src/main/java/com/course/config/SwaggerConfig.java" afterPath="$PROJECT_DIR$/Chapter13/src/main/java/com/course/config/SwaggerConfig.java" />
-      <change beforePath="$PROJECT_DIR$/Chapter13/src/main/java/com/course/controller/UserManager.java" afterPath="$PROJECT_DIR$/Chapter13/src/main/java/com/course/controller/UserManager.java" />
-      <change beforePath="$PROJECT_DIR$/Chapter13/src/main/java/com/course/model/User.java" afterPath="$PROJECT_DIR$/Chapter13/src/main/java/com/course/model/User.java" />
-      <change beforePath="$PROJECT_DIR$/Chapter13/src/main/resources/application.yml" afterPath="$PROJECT_DIR$/Chapter13/src/main/resources/application.yml" />
-      <change beforePath="$PROJECT_DIR$/Chapter13/src/main/resources/logback.xml" afterPath="$PROJECT_DIR$/Chapter13/src/main/resources/logback.xml" />
-      <change beforePath="$PROJECT_DIR$/Chapter13/src/main/resources/mapper/mysql.xml" afterPath="$PROJECT_DIR$/Chapter13/src/main/resources/mapper/mysql.xml" />
-      <change beforePath="$PROJECT_DIR$/Chapter13/src/main/resources/mybatis-config.xml" afterPath="$PROJECT_DIR$/Chapter13/src/main/resources/mybatis-config.xml" />
-      <change beforePath="$PROJECT_DIR$/Chapter5/Chapter5.iml" afterPath="$PROJECT_DIR$/Chapter5/Chapter5.iml" />
-      <change beforePath="$PROJECT_DIR$/Chapter5/pom.xml" afterPath="$PROJECT_DIR$/Chapter5/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/Chapter6/Chapter6.iml" afterPath="$PROJECT_DIR$/Chapter6/Chapter6.iml" />
-      <change beforePath="$PROJECT_DIR$/Chapter6/pom.xml" afterPath="$PROJECT_DIR$/Chapter6/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/Chapter6/src/main/java/com/tester/extend/demo/ExtentTestNGIReporterListener.java" afterPath="$PROJECT_DIR$/Chapter6/src/main/java/com/tester/extend/demo/ExtentTestNGIReporterListener.java" />
-      <change beforePath="$PROJECT_DIR$/Chapter6/src/main/java/com/tester/extend/demo/ExtentTestNGIReporterListenerOld.java" afterPath="$PROJECT_DIR$/Chapter6/src/main/java/com/tester/extend/demo/ExtentTestNGIReporterListenerOld.java" />
-      <change beforePath="$PROJECT_DIR$/Chapter6/src/main/java/com/tester/extend/demo/TestMethodsDemo.java" afterPath="$PROJECT_DIR$/Chapter6/src/main/java/com/tester/extend/demo/TestMethodsDemo.java" />
-      <change beforePath="$PROJECT_DIR$/Chapter6/src/main/resources/testng.xml" afterPath="$PROJECT_DIR$/Chapter6/src/main/resources/testng.xml" />
-      <change beforePath="$PROJECT_DIR$/Chapter7/Basic Introduction" afterPath="$PROJECT_DIR$/Chapter7/Basic Introduction" />
-      <change beforePath="$PROJECT_DIR$/Chapter7/startup1.json" afterPath="$PROJECT_DIR$/Chapter7/startup1.json" />
-      <change beforePath="$PROJECT_DIR$/Chapter7/startupGet.json" afterPath="$PROJECT_DIR$/Chapter7/startupGet.json" />
-      <change beforePath="$PROJECT_DIR$/Chapter7/startupPost.json" afterPath="$PROJECT_DIR$/Chapter7/startupPost.json" />
-      <change beforePath="$PROJECT_DIR$/Chapter7/startupWithCookies.json" afterPath="$PROJECT_DIR$/Chapter7/startupWithCookies.json" />
-      <change beforePath="$PROJECT_DIR$/Chapter7/startupWithHeader.json" afterPath="$PROJECT_DIR$/Chapter7/startupWithHeader.json" />
-      <change beforePath="$PROJECT_DIR$/Chapter7/startupWithRedirect.json" afterPath="$PROJECT_DIR$/Chapter7/startupWithRedirect.json" />
-      <change beforePath="$PROJECT_DIR$/Chapter9/Chapter9.iml" afterPath="$PROJECT_DIR$/Chapter9/Chapter9.iml" />
-      <change beforePath="$PROJECT_DIR$/Chapter9/pom.xml" afterPath="$PROJECT_DIR$/Chapter9/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/Chapter9/src/main/java/com/course/httpclient/cookies/MyCookiesForGet.java" afterPath="$PROJECT_DIR$/Chapter9/src/main/java/com/course/httpclient/cookies/MyCookiesForGet.java" />
-      <change beforePath="$PROJECT_DIR$/Chapter9/src/main/java/com/course/httpclient/cookies/MyCookiesForPost.java" afterPath="$PROJECT_DIR$/Chapter9/src/main/java/com/course/httpclient/cookies/MyCookiesForPost.java" />
-      <change beforePath="$PROJECT_DIR$/Chapter9/src/main/java/com/course/httpclient/demo/MyHttpClient.java" afterPath="$PROJECT_DIR$/Chapter9/src/main/java/com/course/httpclient/demo/MyHttpClient.java" />
-      <change beforePath="$PROJECT_DIR$/Chapter9/src/main/resources/application.properties" afterPath="$PROJECT_DIR$/Chapter9/src/main/resources/application.properties" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/Chapter/target/" />
     <ignored path="$PROJECT_DIR$/Chapter5/target/" />
@@ -139,11 +61,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Chapter12/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="78" column="35" lean-forward="true" selection-start-line="78" selection-start-column="35" selection-end-line="78" selection-end-column="35" />
+            <state relative-caret-position="212">
+              <caret line="86" column="10" lean-forward="false" selection-start-line="86" selection-start-column="10" selection-end-line="86" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -179,11 +101,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="testng.xml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="testng.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Chapter12/target/classes/testng.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="418">
+              <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -273,7 +195,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Chapter10/src/main/java/com/course/config/SwaggerConfig.java" />
         <option value="$PROJECT_DIR$/Chapter10/src/main/java/com/course/server/MyGetMethod.java" />
         <option value="$PROJECT_DIR$/Chapter10/src/main/java/hello/Application.java" />
         <option value="$PROJECT_DIR$/Chapter10/pom.xml" />
@@ -324,6 +245,7 @@
         <option value="$PROJECT_DIR$/Chapter12/src/main/java/com/course/cases/GetUserInfoListTest.java" />
         <option value="$PROJECT_DIR$/Chapter13/pom.xml" />
         <option value="$PROJECT_DIR$/Chapter12/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter12/target/classes/testng.xml" />
       </list>
     </option>
   </component>
@@ -624,6 +546,51 @@
               <item name="Chapter12" type="462c0819:PsiDirectoryNode" />
               <item name="test-output" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="autoTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="autoTest" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter13" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="autoTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="autoTest" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter13" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="autoTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="autoTest" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter13" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="autoTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="autoTest" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter13" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="autoTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="autoTest" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter13" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="autoTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="autoTest" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter13" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="course" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -647,6 +614,9 @@
     <property name="RequestMappingsPanelOrder2" value="2" />
     <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -807,22 +777,17 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="LoginTest.loginTrue" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.course.cases.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="Chapter12" />
+    <configuration name="C:/Users/Kai/workspace/muke/autoTest/Chapter12/target/classes/testng.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="com.course.cases" />
-      <option name="MAIN_CLASS_NAME" value="com.course.cases.LoginTest" />
-      <option name="METHOD_NAME" value="loginTrue" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/Chapter12/target/classes/testng.xml" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
       <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="TEST_OBJECT" value="SUITE" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -839,20 +804,20 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="MyCookiesForPost.testPostMethod" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="LoginTest.loginTrue" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.course.httpclient.cookies.*" />
+          <option name="PATTERN" value="com.course.cases.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <module name="Chapter9" />
+      <module name="Chapter12" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="com.course.httpclient.cookies" />
-      <option name="MAIN_CLASS_NAME" value="com.course.httpclient.cookies.MyCookiesForPost" />
-      <option name="METHOD_NAME" value="testPostMethod" />
+      <option name="PACKAGE_NAME" value="com.course.cases" />
+      <option name="MAIN_CLASS_NAME" value="com.course.cases.LoginTest" />
+      <option name="METHOD_NAME" value="loginTrue" />
       <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="METHOD" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -906,18 +871,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="TestNG.LoginTest.loginTrue" />
-      <item index="1" class="java.lang.String" itemvalue="TestNG.MyCookiesForPost.testPostMethod" />
-      <item index="2" class="java.lang.String" itemvalue="TestNG.C:/Users/Kai/workspace/muke/autoTest/Chapter12/src/main/resources/testng.xml" />
-      <item index="3" class="java.lang.String" itemvalue="TestNG.AddUserTest.addUser" />
-      <item index="4" class="java.lang.String" itemvalue="Spring Boot.Application" />
+      <item index="1" class="java.lang.String" itemvalue="TestNG.C:/Users/Kai/workspace/muke/autoTest/Chapter12/src/main/resources/testng.xml" />
+      <item index="2" class="java.lang.String" itemvalue="TestNG.AddUserTest.addUser" />
+      <item index="3" class="java.lang.String" itemvalue="Spring Boot.Application" />
+      <item index="4" class="java.lang.String" itemvalue="TestNG.C:/Users/Kai/workspace/muke/autoTest/Chapter12/target/classes/testng.xml" />
     </list>
     <recent_temporary>
       <list size="5">
         <item index="0" class="java.lang.String" itemvalue="TestNG.C:/Users/Kai/workspace/muke/autoTest/Chapter12/src/main/resources/testng.xml" />
-        <item index="1" class="java.lang.String" itemvalue="Spring Boot.Application" />
-        <item index="2" class="java.lang.String" itemvalue="TestNG.AddUserTest.addUser" />
-        <item index="3" class="java.lang.String" itemvalue="TestNG.LoginTest.loginTrue" />
-        <item index="4" class="java.lang.String" itemvalue="TestNG.MyCookiesForPost.testPostMethod" />
+        <item index="1" class="java.lang.String" itemvalue="TestNG.C:/Users/Kai/workspace/muke/autoTest/Chapter12/target/classes/testng.xml" />
+        <item index="2" class="java.lang.String" itemvalue="Spring Boot.Application" />
+        <item index="3" class="java.lang.String" itemvalue="TestNG.AddUserTest.addUser" />
+        <item index="4" class="java.lang.String" itemvalue="TestNG.LoginTest.loginTrue" />
       </list>
     </recent_temporary>
   </component>
@@ -953,7 +918,7 @@
       <workItem from="1572450311316" duration="3331000" />
       <workItem from="1572532254133" duration="1806000" />
       <workItem from="1572616891241" duration="1234000" />
-      <workItem from="1572660825430" duration="2411000" />
+      <workItem from="1572660825430" duration="3157000" />
     </task>
     <servers />
   </component>
@@ -990,7 +955,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="140488000" />
+    <option name="totallyTimeSpent" value="141234000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1006,34 +971,34 @@
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5128593" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32730263" sideWeight="0.48184568" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32730263" sideWeight="0.4871407" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26096824" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39967105" sideWeight="0.4969743" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32730263" sideWeight="0.4969743" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32730263" sideWeight="0.48184568" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32730263" sideWeight="0.4871407" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26096824" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39967105" sideWeight="0.4969743" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32730263" sideWeight="0.4969743" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1457,14 +1422,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter12/target/classes/testng.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Chapter12/Chapter12.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1498,8 +1455,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Chapter12/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="78" column="35" lean-forward="true" selection-start-line="78" selection-start-column="35" selection-end-line="78" selection-end-column="35" />
+        <state relative-caret-position="212">
+          <caret line="86" column="10" lean-forward="false" selection-start-line="86" selection-start-column="10" selection-end-line="86" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter12/target/classes/testng.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1507,9 +1472,81 @@
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>9.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>autoTest</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>9.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: aopalliance:aopalliance:1.0</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
