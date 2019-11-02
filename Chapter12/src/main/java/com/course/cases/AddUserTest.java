@@ -1,9 +1,9 @@
-package com.tester.cases;
+package com.course.cases;
 
-import com.tester.config.TestConfig;
-import com.tester.model.AddUserCase;
-import com.tester.model.User;
-import com.tester.utils.DatabaseUtil;
+import com.course.config.TestConfig;
+import com.course.model.AddUserCase;
+import com.course.model.User;
+import com.course.utils.DatabaseUtil;
 import org.apache.http.HttpResponse;
 import org.apache.http.client.methods.HttpPost;
 import org.apache.http.entity.StringEntity;
@@ -18,11 +18,11 @@ import java.io.IOException;
 public class AddUserTest {
 
 
-    @Test(dependsOnGroups = "loginTrue",description = "添加用户接口接口")
+    @Test(dependsOnGroups = "loginTrue",description = "添加用户接口测试")
     public void addUser() throws IOException, InterruptedException {
 
         SqlSession session = DatabaseUtil.getSqlSession();
-        AddUserCase addUserCase = session.selectOne("addUserCase",1);
+        AddUserCase addUserCase = session.selectOne("addUserCase",2);
         System.out.println(addUserCase.toString());
         System.out.println(TestConfig.addUserUrl);
 
@@ -35,7 +35,7 @@ public class AddUserTest {
          * 可以先讲
          */
         //查询用户看是否添加成功
-        Thread.sleep(2000);
+        Thread.sleep(5000);
         User user = session.selectOne("addUser",addUserCase);
         System.out.println(user.toString());
 
@@ -52,7 +52,7 @@ public class AddUserTest {
         HttpPost post = new HttpPost(TestConfig.addUserUrl);
         JSONObject param = new JSONObject();
         param.put("userName",addUserCase.getUserName());
-        param.put("password",addUserCase.getPassword());
+        param.put("passWord",addUserCase.getPassWord());
         param.put("sex",addUserCase.getSex());
         param.put("age",addUserCase.getAge());
         param.put("permission",addUserCase.getPermission());
@@ -63,7 +63,7 @@ public class AddUserTest {
         StringEntity entity = new StringEntity(param.toString(),"utf-8");
         post.setEntity(entity);
         //设置cookies
-        TestConfig.defaultHttpClient.setCookieStore(TestConfig.store);
+        TestConfig.defaultHttpClient.setCookieStore(TestConfig.cookieStore);
         //声明一个对象来进行响应结果的存储
         String result;
         //执行post方法

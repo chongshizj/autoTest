@@ -1,9 +1,9 @@
-package com.tester.cases;
+package com.course.cases;
 
-import com.tester.config.TestConfig;
-import com.tester.model.UpdateUserInfoCase;
-import com.tester.model.User;
-import com.tester.utils.DatabaseUtil;
+import com.course.config.TestConfig;
+import com.course.model.UpdateUserInfoCase;
+import com.course.model.User;
+import com.course.utils.DatabaseUtil;
 import org.apache.http.HttpResponse;
 import org.apache.http.client.methods.HttpPost;
 import org.apache.http.entity.StringEntity;
@@ -14,7 +14,6 @@ import org.testng.Assert;
 import org.testng.annotations.Test;
 
 import java.io.IOException;
-import java.io.UnsupportedEncodingException;
 
 public class UpdateUserInfoTest {
 
@@ -39,7 +38,7 @@ public class UpdateUserInfoTest {
 
 
         Assert.assertNotNull(user);
-        Assert.assertNotNull(result);
+        //Assert.assertNotNull(result);
 
     }
 
@@ -67,6 +66,7 @@ public class UpdateUserInfoTest {
     }
 
 
+
     private int getResult(UpdateUserInfoCase updateUserInfoCase) throws IOException {
         HttpPost post = new HttpPost(TestConfig.updateUserInfoUrl);
         JSONObject param = new JSONObject();
@@ -82,7 +82,7 @@ public class UpdateUserInfoTest {
         StringEntity entity = new StringEntity(param.toString(),"utf-8");
         post.setEntity(entity);
         //设置cookies
-        TestConfig.defaultHttpClient.setCookieStore(TestConfig.store);
+        TestConfig.defaultHttpClient.setCookieStore(TestConfig.cookieStore);
         //声明一个对象来进行响应结果的存储
         String result;
         //执行post方法

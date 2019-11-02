@@ -1,4 +1,4 @@
-package com.tester.extend.demo;
+package com.course.config;
 
 import com.aventstack.extentreports.ExtentReports;
 import com.aventstack.extentreports.ExtentTest;
@@ -13,7 +13,7 @@ import org.testng.xml.XmlSuite;
 import java.io.File;
 import java.util.*;
 
-public class ExtentTestNGIReporterListenerOld implements IReporter {
+public class ExtentTestNGIReporterListener implements IReporter {
     //生成的路径以及文件名
     private static final String OUTPUT_FOLDER = "test-output/";
     private static final String FILE_NAME = "index.html";

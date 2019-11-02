@@ -1,0 +1,74 @@
+[
+  {
+    "description":"Mimic a post request",
+    "request":{
+      "uri":"/postdemo",
+      "method":"post"
+    },
+    "response":{
+      "text":"this is my first post request of mock"
+    }
+  },
+  {
+    "description":"Mimic a post request with parameters",
+    "request":{
+      "uri":"/postwithparam",
+      "method":"post",
+      "forms":{
+        "name":"huhansan",
+        "sex":"man"
+      }
+    },
+    "response":{
+      "text":"I huhansan is taking parameters!!"
+    }
+  },
+  {
+    "description": "Interface testing of login",
+    "request": {
+      "uri": "/v1/login",
+      "method": "post",
+      "json": {
+        "userName": "zhangsan",
+        "passWord": "123456"
+      }
+    },
+    "response": {
+      "text": "true"
+    }
+  },
+  {
+    "description":"Interface testing of addUser",
+    "request":{
+      "uri":"/v1/addUser",
+      "method":"post",
+      "json":{
+        "userName":"Andre",
+        "passWord":"123456",
+        "sex":"1",
+        "age":"45",
+        "permission":"1",
+        "isDelete":"1"
+      }
+    },
+    "response":{
+      "text":"true"
+    }
+  },
+  {
+    "description":"Interface testing of getUserInfo",
+    "request":{
+      "uri":"/v1/getUserInfo",
+      "method":"post",
+      "cookies":{
+        "login":"true"
+      },
+      "json":{
+        "userId":"1"
+      }
+    },
+    "response":{
+      "text":"getUserInfo"
+    }
+  }
+]

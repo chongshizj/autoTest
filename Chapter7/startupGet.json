@@ -1,0 +1,26 @@
+[
+  {
+    "description": "Minic a get request without parameters",
+    "request":{
+      "uri": "/getdemo",
+      "method":"get"
+    },
+    "response":{
+      "text":"This is a request without parameters"
+    }
+  },
+  {
+    "description":"Mimic a request with parameters",
+    "request":{
+      "uri":"/getwithparam",
+      "method":"get",
+      "queries":{
+        "name":"huhansan",
+        "age":"18"
+      }
+    },
+    "response":{
+      "text":"I am huhansan and I come back again!!"
+    }
+  }
+]

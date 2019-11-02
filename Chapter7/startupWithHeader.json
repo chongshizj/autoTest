@@ -1,0 +1,22 @@
+[
+  {
+    "description":"This post request has header information",
+    "request":{
+      "uri":"/post/with/headers",
+      "method":"post",
+      "headers":{
+        "content-type":"application/json"
+      },
+      "json":{
+        "name":"wangwu",
+        "sex":"woman"
+      }
+    },
+    "response":{
+      "json":{
+        "wangwu":"success",
+        "status":"1"
+      }
+    }
+  }
+]

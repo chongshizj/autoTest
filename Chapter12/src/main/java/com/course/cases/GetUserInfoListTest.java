@@ -1,9 +1,9 @@
-package com.tester.cases;
+package com.course.cases;
 
-import com.tester.config.TestConfig;
-import com.tester.model.GetUserListCase;
-import com.tester.model.User;
-import com.tester.utils.DatabaseUtil;
+import com.course.config.TestConfig;
+import com.course.model.GetUserListCase;
+import com.course.model.User;
+import com.course.utils.DatabaseUtil;
 import org.apache.http.HttpResponse;
 import org.apache.http.client.methods.HttpPost;
 import org.apache.http.entity.StringEntity;
@@ -30,9 +30,6 @@ public class GetUserInfoListTest {
         System.out.println(TestConfig.getUserListUrl);
 
 
-
-
-
         //下边为写完接口的代码
         JSONArray resultJson = getJsonResult(getUserListCase);
         /**
@@ -51,8 +48,6 @@ public class GetUserInfoListTest {
             JSONObject actual = (JSONObject) userListJson.get(i);
             Assert.assertEquals(expect.toString(), actual.toString());
         }
-
-
     }
 
     private JSONArray getJsonResult(GetUserListCase getUserListCase) throws IOException {
@@ -67,7 +62,7 @@ public class GetUserInfoListTest {
         StringEntity entity = new StringEntity(param.toString(),"utf-8");
         post.setEntity(entity);
         //设置cookies
-        TestConfig.defaultHttpClient.setCookieStore(TestConfig.store);
+        TestConfig.defaultHttpClient.setCookieStore(TestConfig.cookieStore);
         //声明一个对象来进行响应结果的存储
         String result;
         //执行post方法
