@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite tests="1" failures="0" name="TestSuite" time="2.919" errors="0" skipped="0">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="java.vm.version" value="9.0.4+11"/>
+    <property name="sun.boot.library.path" value="F:\Java\jdk-9.0.4\bin"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="path.separator" value=";"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="sun.os.patch.level" value="Service Pack 1"/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="CN"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="C:\Users\Kai\workspace\muke\autoTest\Chapter12"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="java.runtime.version" value="9.0.4+11"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="basedir" value="C:\Users\Kai\workspace\muke\autoTest\Chapter12"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="surefire.real.class.path" value="C:\Users\Kai\workspace\muke\autoTest\Chapter12\target\surefire\surefirebooter10205096596720579789.jar"/>
+    <property name="java.io.tmpdir" value="C:\Users\Kai\AppData\Local\Temp\"/>
+    <property name="line.separator" value="
+"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 7"/>
+    <property name="sun.jnu.encoding" value="GBK"/>
+    <property name="java.library.path" value="F:\Java\jdk-9.0.4\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\Kai\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0;C:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x86;C:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x64;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x86;C:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x64;C:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn\VSShell\Common7\IDE;C:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn;F:\Sql Server Management\100\Tools\Binn;C:\Program Files (x86)\Microsoft SQL Server\100\DTS\Binn;F:\Sql Server Management\100\DTS\Binn;F:\Sql Server Management\Feature Directory\Client SDK\ODBC\110\Tools\Binn;F:\Sql Server Management\Feature Directory X86\120\Tools\Binn\ManagementStudio;F:\Sql Server Management\Feature Directory X86\120\Tools\Binn;F:\Sql Server Management\Feature Directory\120\Tools\Binn;F:\Sql Server Management\Feature Directory X86\120\DTS\Binn;F:\Sql Server Management\Feature Directory\120\DTS\Binn;F:\Sql Server Management\Feature Directory\130\Tools\Binn;F:\Git\Git\cmd;F:\数据库\Mysql data\bin;F:\;数据库\Mysql installation files\bin;F:\;Database\Mysql installation files\bin;F:\Java\jdk-9.0.4\bin;F:\Java\jdk-9.0.4\bin;F:\Maven\apache-maven-3.6.0\bin;C:\Program Files\MySQL\MySQL Server 5.5\bin;F:\Java\jdk-9.0.4\bin;F:\Java\jdk-9.0.4\jre\bin;F:\Software\NodeJS;C:\Program Files\Git\cmd;C:\Program Files\Git\usr\bin;C:\Program Files\Java\jdk-10.0.1\bin;C:\Users\Kai\AppData\Local\Programs\Fiddler;C:\Users\Kai\AppData\Roaming\npm;F:\Software\Visual Studio Code\Microsoft VS Code\bin;C:\Program Files\MySQL\MySQL Server 5.7\bin;F:\Jetbrains\IntelliJ IDEA 2017.3.3\plugins\maven\lib\maven3\bin;."/>
+    <property name="surefire.test.class.path" value="C:\Users\Kai\workspace\muke\autoTest\Chapter12\target\test-classes;C:\Users\Kai\workspace\muke\autoTest\Chapter12\target\classes;C:\Users\Kai\.m2\repository\org\apache\httpcomponents\httpclient\4.1.2\httpclient-4.1.2.jar;C:\Users\Kai\.m2\repository\org\apache\httpcomponents\httpcore\4.4.9\httpcore-4.4.9.jar;C:\Users\Kai\.m2\repository\commons-codec\commons-codec\1.11\commons-codec-1.11.jar;C:\Users\Kai\.m2\repository\org\json\json\20170516\json-20170516.jar;C:\Users\Kai\.m2\repository\org\mybatis\mybatis\3.4.6\mybatis-3.4.6.jar;C:\Users\Kai\.m2\repository\mysql\mysql-connector-java\5.1.45\mysql-connector-java-5.1.45.jar;C:\Users\Kai\.m2\repository\org\projectlombok\lombok\1.16.22\lombok-1.16.22.jar;C:\Users\Kai\.m2\repository\com\relevantcodes\extentreports\2.41.1\extentreports-2.41.1.jar;C:\Users\Kai\.m2\repository\org\jsoup\jsoup\1.8.3\jsoup-1.8.3.jar;C:\Users\Kai\.m2\repository\org\xerial\sqlite-jdbc\3.21.0.1\sqlite-jdbc-3.21.0.1.jar;C:\Users\Kai\.m2\repository\org\freemarker\freemarker\2.3.27-incubating\freemarker-2.3.27-incubating.jar;C:\Users\Kai\.m2\repository\org\mongodb\mongodb-driver\3.6.3\mongodb-driver-3.6.3.jar;C:\Users\Kai\.m2\repository\org\mongodb\bson\3.6.3\bson-3.6.3.jar;C:\Users\Kai\.m2\repository\org\mongodb\mongodb-driver-core\3.6.3\mongodb-driver-core-3.6.3.jar;C:\Users\Kai\.m2\repository\com\vimalselvam\testng-extentsreport\1.3.1\testng-extentsreport-1.3.1.jar;C:\Users\Kai\.m2\repository\com\google\guava\guava\20.0\guava-20.0.jar;C:\Users\Kai\.m2\repository\com\aventstack\extentreports\3.0.6\extentreports-3.0.6.jar;C:\Users\Kai\.m2\repository\org\apache\httpcomponents\httpmime\4.5.5\httpmime-4.5.5.jar;C:\Users\Kai\.m2\repository\org\testng\testng\6.10\testng-6.10.jar;C:\Users\Kai\.m2\repository\com\beust\jcommander\1.48\jcommander-1.48.jar;C:\Users\Kai\.m2\repository\commons-logging\commons-logging\1.1.3\commons-logging-1.1.3.jar;C:\Users\Kai\.m2\repository\org\springframework\boot\spring-boot-autoconfigure\2.0.0.RELEASE\spring-boot-autoconfigure-2.0.0.RELEASE.jar;C:\Users\Kai\.m2\repository\org\springframework\boot\spring-boot\2.0.0.RELEASE\spring-boot-2.0.0.RELEASE.jar;C:\Users\Kai\.m2\repository\org\springframework\spring-core\5.0.4.RELEASE\spring-core-5.0.4.RELEASE.jar;C:\Users\Kai\.m2\repository\org\springframework\spring-jcl\5.0.4.RELEASE\spring-jcl-5.0.4.RELEASE.jar;C:\Users\Kai\.m2\repository\org\springframework\spring-context\5.0.4.RELEASE\spring-context-5.0.4.RELEASE.jar;C:\Users\Kai\.m2\repository\org\springframework\spring-aop\5.0.4.RELEASE\spring-aop-5.0.4.RELEASE.jar;C:\Users\Kai\.m2\repository\org\springframework\spring-beans\5.0.4.RELEASE\spring-beans-5.0.4.RELEASE.jar;C:\Users\Kai\.m2\repository\org\springframework\spring-expression\5.0.4.RELEASE\spring-expression-5.0.4.RELEASE.jar;"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="java.class.version" value="53.0"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="6.1"/>
+    <property name="user.home" value="C:\Users\Kai"/>
+    <property name="user.timezone" value="Asia/Shanghai"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="file.encoding" value="GBK"/>
+    <property name="java.specification.version" value="9"/>
+    <property name="user.name" value="Kai"/>
+    <property name="java.class.path" value="C:\Users\Kai\workspace\muke\autoTest\Chapter12\target\test-classes;C:\Users\Kai\workspace\muke\autoTest\Chapter12\target\classes;C:\Users\Kai\.m2\repository\org\apache\httpcomponents\httpclient\4.1.2\httpclient-4.1.2.jar;C:\Users\Kai\.m2\repository\org\apache\httpcomponents\httpcore\4.4.9\httpcore-4.4.9.jar;C:\Users\Kai\.m2\repository\commons-codec\commons-codec\1.11\commons-codec-1.11.jar;C:\Users\Kai\.m2\repository\org\json\json\20170516\json-20170516.jar;C:\Users\Kai\.m2\repository\org\mybatis\mybatis\3.4.6\mybatis-3.4.6.jar;C:\Users\Kai\.m2\repository\mysql\mysql-connector-java\5.1.45\mysql-connector-java-5.1.45.jar;C:\Users\Kai\.m2\repository\org\projectlombok\lombok\1.16.22\lombok-1.16.22.jar;C:\Users\Kai\.m2\repository\com\relevantcodes\extentreports\2.41.1\extentreports-2.41.1.jar;C:\Users\Kai\.m2\repository\org\jsoup\jsoup\1.8.3\jsoup-1.8.3.jar;C:\Users\Kai\.m2\repository\org\xerial\sqlite-jdbc\3.21.0.1\sqlite-jdbc-3.21.0.1.jar;C:\Users\Kai\.m2\repository\org\freemarker\freemarker\2.3.27-incubating\freemarker-2.3.27-incubating.jar;C:\Users\Kai\.m2\repository\org\mongodb\mongodb-driver\3.6.3\mongodb-driver-3.6.3.jar;C:\Users\Kai\.m2\repository\org\mongodb\bson\3.6.3\bson-3.6.3.jar;C:\Users\Kai\.m2\repository\org\mongodb\mongodb-driver-core\3.6.3\mongodb-driver-core-3.6.3.jar;C:\Users\Kai\.m2\repository\com\vimalselvam\testng-extentsreport\1.3.1\testng-extentsreport-1.3.1.jar;C:\Users\Kai\.m2\repository\com\google\guava\guava\20.0\guava-20.0.jar;C:\Users\Kai\.m2\repository\com\aventstack\extentreports\3.0.6\extentreports-3.0.6.jar;C:\Users\Kai\.m2\repository\org\apache\httpcomponents\httpmime\4.5.5\httpmime-4.5.5.jar;C:\Users\Kai\.m2\repository\org\testng\testng\6.10\testng-6.10.jar;C:\Users\Kai\.m2\repository\com\beust\jcommander\1.48\jcommander-1.48.jar;C:\Users\Kai\.m2\repository\commons-logging\commons-logging\1.1.3\commons-logging-1.1.3.jar;C:\Users\Kai\.m2\repository\org\springframework\boot\spring-boot-autoconfigure\2.0.0.RELEASE\spring-boot-autoconfigure-2.0.0.RELEASE.jar;C:\Users\Kai\.m2\repository\org\springframework\boot\spring-boot\2.0.0.RELEASE\spring-boot-2.0.0.RELEASE.jar;C:\Users\Kai\.m2\repository\org\springframework\spring-core\5.0.4.RELEASE\spring-core-5.0.4.RELEASE.jar;C:\Users\Kai\.m2\repository\org\springframework\spring-jcl\5.0.4.RELEASE\spring-jcl-5.0.4.RELEASE.jar;C:\Users\Kai\.m2\repository\org\springframework\spring-context\5.0.4.RELEASE\spring-context-5.0.4.RELEASE.jar;C:\Users\Kai\.m2\repository\org\springframework\spring-aop\5.0.4.RELEASE\spring-aop-5.0.4.RELEASE.jar;C:\Users\Kai\.m2\repository\org\springframework\spring-beans\5.0.4.RELEASE\spring-beans-5.0.4.RELEASE.jar;C:\Users\Kai\.m2\repository\org\springframework\spring-expression\5.0.4.RELEASE\spring-expression-5.0.4.RELEASE.jar;"/>
+    <property name="java.vm.specification.version" value="9"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="sun.java.command" value="C:\Users\Kai\workspace\muke\autoTest\Chapter12\target\surefire\surefirebooter10205096596720579789.jar C:\Users\Kai\workspace\muke\autoTest\Chapter12\target\surefire\surefire16695016499911415216tmp C:\Users\Kai\workspace\muke\autoTest\Chapter12\target\surefire\surefire6522557957837933514tmp"/>
+    <property name="java.home" value="F:\Java\jdk-9.0.4"/>
+    <property name="user.language" value="zh"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="9.0.4"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="localRepository" value="C:\Users\Kai\.m2\repository"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.java.com/bugreport/"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase classname="com.course.cases.LoginTest" name="loginTrue" time="1.369"/>
+</testsuite>

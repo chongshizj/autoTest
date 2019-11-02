@@ -1,6 +1,6 @@
 #surefire
-#Wed Oct 30 23:47:40 CST 2019
-testSuiteDefinitionTestSourceDirectory=C\:\\Users\\Kai\\workspace\\muke\\autoTest\\chapter12\\src\\test\\java
+#Sat Nov 02 17:42:21 CST 2019
+testSuiteDefinitionTestSourceDirectory=C\:\\Users\\Kai\\workspace\\muke\\autoTest\\Chapter12\\src\\test\\java
 testFwJarVersion=6.10
 surefireClassPathUrl.0=C\:\\Users\\Kai\\.m2\\repository\\org\\apache\\maven\\surefire\\surefire-testng\\2.7.1\\surefire-testng-2.7.1.jar
 classPathUrl.10=C\:\\Users\\Kai\\.m2\\repository\\org\\jsoup\\jsoup\\1.8.3\\jsoup-1.8.3.jar
@@ -30,23 +30,23 @@ classPathUrl.5=C\:\\Users\\Kai\\.m2\\repository\\org\\json\\json\\20170516\\json
 classPathUrl.6=C\:\\Users\\Kai\\.m2\\repository\\org\\mybatis\\mybatis\\3.4.6\\mybatis-3.4.6.jar
 classPathUrl.7=C\:\\Users\\Kai\\.m2\\repository\\mysql\\mysql-connector-java\\5.1.45\\mysql-connector-java-5.1.45.jar
 classPathUrl.8=C\:\\Users\\Kai\\.m2\\repository\\org\\projectlombok\\lombok\\1.16.22\\lombok-1.16.22.jar
-reportsDirectory=C\:\\Users\\Kai\\workspace\\muke\\autoTest\\chapter12\\target\\surefire-reports
+reportsDirectory=C\:\\Users\\Kai\\workspace\\muke\\autoTest\\Chapter12\\target\\surefire-reports
 classPathUrl.9=C\:\\Users\\Kai\\.m2\\repository\\com\\relevantcodes\\extentreports\\2.41.1\\extentreports-2.41.1.jar
 classPathUrl.30=C\:\\Users\\Kai\\.m2\\repository\\org\\springframework\\spring-expression\\5.0.4.RELEASE\\spring-expression-5.0.4.RELEASE.jar
-classPathUrl.0=C\:\\Users\\Kai\\workspace\\muke\\autoTest\\chapter12\\target\\test-classes
-classPathUrl.1=C\:\\Users\\Kai\\workspace\\muke\\autoTest\\chapter12\\target\\classes
+classPathUrl.0=C\:\\Users\\Kai\\workspace\\muke\\autoTest\\Chapter12\\target\\test-classes
+classPathUrl.1=C\:\\Users\\Kai\\workspace\\muke\\autoTest\\Chapter12\\target\\classes
 classPathUrl.2=C\:\\Users\\Kai\\.m2\\repository\\org\\apache\\httpcomponents\\httpclient\\4.1.2\\httpclient-4.1.2.jar
 classPathUrl.3=C\:\\Users\\Kai\\.m2\\repository\\org\\apache\\httpcomponents\\httpcore\\4.4.9\\httpcore-4.4.9.jar
 classPathUrl.26=C\:\\Users\\Kai\\.m2\\repository\\org\\springframework\\spring-jcl\\5.0.4.RELEASE\\spring-jcl-5.0.4.RELEASE.jar
 classPathUrl.27=C\:\\Users\\Kai\\.m2\\repository\\org\\springframework\\spring-context\\5.0.4.RELEASE\\spring-context-5.0.4.RELEASE.jar
 classPathUrl.28=C\:\\Users\\Kai\\.m2\\repository\\org\\springframework\\spring-aop\\5.0.4.RELEASE\\spring-aop-5.0.4.RELEASE.jar
 classPathUrl.29=C\:\\Users\\Kai\\.m2\\repository\\org\\springframework\\spring-beans\\5.0.4.RELEASE\\spring-beans-5.0.4.RELEASE.jar
-testSuiteXmlFiles0=C\:\\Users\\Kai\\workspace\\muke\\autoTest\\chapter12\\src\\main\\cdresources\\testng.xml
+testSuiteXmlFiles0=C\:\\Users\\Kai\\workspace\\muke\\autoTest\\Chapter12\\src\\main\\resources\\testng.xml
 providerConfiguration=org.apache.maven.surefire.testng.TestNGProvider
 failIfNoTests=false
 isTrimStackTrace=true
 report.2=org.apache.maven.surefire.report.XMLReporter
-testng.test.classpath=C\:\\Users\\Kai\\workspace\\muke\\autoTest\\chapter12\\target\\test-classes
+testng.test.classpath=C\:\\Users\\Kai\\workspace\\muke\\autoTest\\Chapter12\\target\\test-classes
 childDelegation=false
 report.1=org.apache.maven.surefire.report.BriefFileReporter
 report.0=org.apache.maven.surefire.report.ForkingConsoleReporter
